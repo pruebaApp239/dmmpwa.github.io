@@ -1,7 +1,7 @@
 # dmmpwa.github.io
 Página web PWA
 
-https://dmmpwa.github.io
+https://pruebaapp239.github.io/PWA_X.io/
 
 Espera 11 minutos después de hacer
 los cambios en tu sitio, para
